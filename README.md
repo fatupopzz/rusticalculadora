@@ -19,5 +19,4 @@ Una reimplementación de la clásica calculadora de Windows XP usando Rust y el 
 
 - Rust (última versión estable)
 - Cargo (viene con Rust)
-
-## poner cargo run
+- poner cargo run
