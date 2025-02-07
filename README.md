@@ -11,7 +11,7 @@ Una reimplementación de la clásica calculadora de Windows XP usando Rust y el 
 - Operaciones básicas (+, -, *, /)
 - Funciones de memoria (MC, MR, MS, M+)
 - Operaciones especiales (sqrt, 1/x, %)
-- Interfaz familiar y nostálgica
+
 
 ## Instalación
 
